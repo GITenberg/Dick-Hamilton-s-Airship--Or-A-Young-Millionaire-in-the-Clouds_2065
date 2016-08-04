@@ -1,0 +1,31 @@
+_repo: Dick-Hamilton-s-Airship--Or-A-Young-Millionaire-in-the-Clouds_2065
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Garis, Howard Roger
+    aliases:
+    - Davidson, Marion
+    - Garis, Howard R.
+    birthdate: 1873
+    deathdate: 1962
+    gutenberg_agent_id: '808'
+    url: http://www.gutenberg.org/2009/agents/808
+    wikipedia: http://en.wikipedia.org/wiki/Howard_R._Garis
+description: ''
+gutenberg_issued: '2000-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2065'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Airships -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Millionaires -- Juvenile fiction'
+- !lcsh 'Aeronautics -- Juvenile fiction'
+- GITenberg
+title: Dick Hamilton's Airship; Or, A Young Millionaire in the Clouds
+url: http://www.gutenberg.org/ebooks/2065
